@@ -1,4 +1,4 @@
-# Telecoms Customer Churn Dashboard 📊
+# Human Resources Customer Churn Dashboard 📊
 *About Project*
 -
 This dashboard provides a comprehensive view of workforce performance, employee demographics, workforce composition, remuneration, and employee retention across the organisation. The project uses DAX, data modelling, bookmarks and dynamic buttons for business storytelling by identifying churn drivers and customer retention opportunities. This dashboard analyzes customer churn patterns and identifies factors contributing to customer attrition.
