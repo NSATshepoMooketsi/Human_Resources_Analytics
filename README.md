@@ -42,7 +42,7 @@ The HR department needs a comprehensive view of workforce performance, employee 
 
 
 ###  2.1.2 Dashboard Preview 📊
-![Dashboard](Images/Customer_Demographics_Loyalty.png)
+![Dashboard](Images/Active_Workforce.png)
 
 ###  2.2.1 Workforce Churn
 ### Workforce Churn
@@ -53,7 +53,7 @@ The HR department needs a comprehensive view of workforce performance, employee 
 - Employees identifying as African American have the lowest average salary among the demographic groups analysed.
 
 ###  2.2.2 Dashboard Preview 📊
-![Dashboard](Images/Contract_Churn_Loyalty.png)
+![Dashboard](Images/Workforce_Summary.png)
 
 ###  2.3.1 Active Workforce Location 
 ### Workforce Location
@@ -65,7 +65,7 @@ The HR department needs a comprehensive view of workforce performance, employee 
 
 
   ###  3.3.2 Dashboard Preview 📊
-![Dashboard](Images/Referrals_Usage_Loyalty.png)
+![Dashboard](Images/Active_Workforce_Location.png)
 
 ###  2.4.1 Workforce Composition Analysis
 ### Workforce Composition
@@ -75,7 +75,7 @@ The HR department needs a comprehensive view of workforce performance, employee 
 - The decomposition tree enables rapid identification of high-earning organisational structures.
 
 ###  2.4.2 Dashboard Preview 📊
-![Dashboard](Images/Offers_Services_Loyalty.png)
+![Dashboard](Images/Workforce_Composition.png)
 
 
 ###  2.5.1 Support Analysis: Compensations & Retention Analysis 
@@ -85,7 +85,7 @@ The HR department needs a comprehensive view of workforce performance, employee 
 - Although longer-tenured employees generally earn higher salaries, increased compensation alone does not appear to eliminate employee turnover.
 
 ###  2.5.2 Dashboard Preview 📊
-![Dashboard](Images/Offers_Services_Loyalty.png)
+![Dashboard](Images/Compensations_and_Retention.png)
 
 
 
