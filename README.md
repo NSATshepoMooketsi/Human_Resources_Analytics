@@ -112,7 +112,7 @@ The HR department needs a comprehensive view of workforce performance, employee 
 Combined with the exit reason analysis, this suggests that career progression, workplace flexibility, and broader employee experience are key factors influencing retention alongside compensation.
 
 ###  3.1.2 Compensation alone is not enough to retain employees.
--Approximately 80% of employees work remotely, with significant variation in salary across cities. 
+- Approximately 80% of employees work remotely, with significant variation in salary across cities. 
 However, the analysis found no meaningful relationship between city-level average salary and employee churn, indicating that organisational and employee-specific factors are more influential than location 
 in explaining workforce turnover.
 ---
