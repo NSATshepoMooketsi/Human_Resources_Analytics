@@ -136,7 +136,7 @@ Microsoft Certified Power BI Data Analyst Associate (PL-300) with expertise in S
 
 ### Certifications
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- [View Microsoft Certification](link_here)
+- [View Microsoft Certification](Images/Power_BI_Certification.pdf)
 
 ### Connect With Me
 - LinkedIn: [Tshepo Mooketsi](https://www.linkedin.com/in/tshepo-mooketsi-77b892116)
