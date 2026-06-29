@@ -122,7 +122,8 @@ in explaining workforce turnover.
 
 **Tshepo Mooketsi**
 
-Business Intelligence Analyst with 8 years of experience delivering analytics solutions across the telecommunications and retail industries. Passionate about transforming complex data into actionable business insights through data modelling, reporting, and visualization.
+Business Intelligence Analyst with 10 years of experience delivering analytics solutions across the telecoms and retail industries.
+Microsoft Certified Power BI Data Analyst Associate (PL-300) with expertise in SQL, Power BI, data warehousing, dashboard development, requirements analysis and stakeholder engagement.
 
 ### Skills
 - Power BI
